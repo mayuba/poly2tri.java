@@ -5,7 +5,7 @@ https://code.google.com/p/poly2tri/
 
 This is a temporary fork, in order to add various features.
 
-## How to use
+### How to use
 
 ```java
 import org.poly2tri.Poly2Tri;
